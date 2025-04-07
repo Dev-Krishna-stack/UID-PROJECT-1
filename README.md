@@ -3,9 +3,11 @@
 I have created a portfolio website using HTML and internal CSS ,which is a responsive layout that 
 works on both desktop and mobile.
 
+🔗 Visit Now: https://suryaaa9.github.io/surya
+<hr>
 explaining each section :
 
-### 1)  indexpage (index.html)
+### 1)  indexpage (index.html)🧷
 
 ~It consists of navigation bar for contact skills and home.
 
@@ -15,7 +17,7 @@ explaining each section :
 
 ~ animation FadeIn using Keyframes Fadein.
 
-### 2)About (About.html)
+### 2)About (About.html) 🧾
 
 ~ Profile pricture in a circular frame.
 
@@ -25,7 +27,7 @@ explaining each section :
 
 ~ hover effect on box containing the description using transform:scale().
 
-### 3) Projects (Projects.html)
+### 3) Projects (Projects.html) 💡
 
 ~ 3 projects (timetable , question paper ,resume) are displayed using div.box
 
@@ -33,15 +35,15 @@ explaining each section :
 
 ~ hover effect on project boxes
 
-### 4) Skills (skills.html)
+### 4) Skills (skills.html) 🪄
 
 ~ skills are listed in boxes.
 
 ~ hover effect on each box .
 
 ~ footer with message " interested to add more to this list"
-
-### OVERALL
+<hr>
+### OVERALL 🧷
 ~ I have used different css styles
  
 ~ animations on page load  
@@ -56,3 +58,18 @@ other effects also used (hover,fade in ,transitions )
  used mediaqueries
  
 ~ simple and elegant design 
+<hr>
+🌐 Technologies Used
+
+•	HTML5
+
+•	CSS3
+
+•	Responsive Design Techniques
+
+•	Animations with @keyframes
+<hr>
+📬 Contact
+📧 Email: devkrishnak57@gmail.com
+📱 Phone: +91 9496963987
+

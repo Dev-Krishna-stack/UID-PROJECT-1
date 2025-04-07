@@ -3,7 +3,7 @@
 I have created a portfolio website using HTML and internal CSS ,which is a responsive layout that 
 works on both desktop and mobile.
 
-🔗 Visit Now: https://suryaaa9.github.io/surya
+🔗 Visit Now: https://dev-krishna-stack.github.io/UID-PROJECT-1/
 <hr>
 explaining each section :
 
